@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
   <link href="http://blog.josephwilk.net/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Bevan" rel="stylesheet" type="text/css">
