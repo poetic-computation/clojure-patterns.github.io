@@ -1,4 +1,7 @@
 <html>
+<head>
+<link href="http://blog.josephwilk.net/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css"> 
+</head>
 <body>
 
 <h1>Clojure Function Patterns</h1>
