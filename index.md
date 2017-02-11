@@ -1,3 +1,8 @@
+<html>
+<body>
+
+<h1>Clojure Function Patterns</h1>
+
 <h2><code>(butlast col)</code></h2>
 
 <pre><code>Return a seq of all but the last item in coll, in linear time
@@ -408,3 +413,5 @@ avoid this, sort a copy of the array.
 <div style="padding-bottom: 40px;">
 <span><img src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24split_at_post.png"></span>
 </div>
+</body>
+</html>
