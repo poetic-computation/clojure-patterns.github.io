@@ -8,12 +8,12 @@
  
 </head>
 <body>
-
+<header>
 <h1>Clojure Function Patterns</h1>
-
+</header>
  <div id="main">
     <div id="content">
-
+       <div class="entry-content">
 
 <h2><code>(butlast col)</code></h2>
 
@@ -426,6 +426,7 @@ avoid this, sort a copy of the array.
 <span><img src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24split_at_post.png"></span>
 </div>
 
+</div>
 </div>
 </div>
 
