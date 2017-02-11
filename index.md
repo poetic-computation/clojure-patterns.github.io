@@ -1,18 +1,3 @@
-
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Clojure Functions Patterns</title>
-  <meta name="author" content="Joseph Wilk">
-
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-</head>
-
-<body class="collapse-sidebar sidebar-footer" >
-
 <h2><code>(butlast col)</code></h2>
 
 <pre><code>Return a seq of all but the last item in coll, in linear time
@@ -22,14 +7,11 @@
 <span><span style="font-size: 2em;">(</span><code>butlast <img  style="vertical-align:middle" src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24butlast_arg0.png"> <span style="font-size: 2em;">)</span></code></span>
 </div>
 
-
 <div><code>;;=></code></div>
-
 
 <div style="padding-bottom: 40px;">
 <span><img src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24butlast_post.png"></span>
 </div>
-
 
 <h2><code>(concat x y)</code></h2>
 
@@ -426,6 +408,3 @@ avoid this, sort a copy of the array.
 <div style="padding-bottom: 40px;">
 <span><img src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24split_at_post.png"></span>
 </div>
-
-</body>
-</html>
