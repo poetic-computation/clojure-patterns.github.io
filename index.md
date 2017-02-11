@@ -14,7 +14,8 @@
  <div id="main">
     <div id="content">
        <div class="entry-content">
-
+         <article class="hentry" role="article">
+ 
 <h2><code>(butlast col)</code></h2>
 
 <pre><code>Return a seq of all but the last item in coll, in linear time
@@ -426,6 +427,7 @@ avoid this, sort a copy of the array.
 <span><img src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24split_at_post.png"></span>
 </div>
 
+</article>
 </div>
 </div>
 </div>
