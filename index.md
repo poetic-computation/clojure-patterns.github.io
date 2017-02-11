@@ -1,8 +1,9 @@
 <head>
-  <link href="http://blog.josephwilk.net/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Bevan" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Eczar" rel="stylesheet">
 </head>
 
 <body    class="collapse-sidebar sidebar-footer" >
