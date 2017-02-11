@@ -434,5 +434,3 @@ avoid this, sort a copy of the array.
 </div>
 </div>
 </article>
-</body>
-</html>
