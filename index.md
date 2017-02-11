@@ -1,21 +1,25 @@
-<html>
+<!DOCTYPE html>
 <head>
-<link href="http://blog.josephwilk.net/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css"> 
+  <link href="http://blog.josephwilk.net/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Bevan" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
- 
 </head>
-<body>
-<header>
-<h1>Clojure Function Patterns</h1>
+
+<body    class="collapse-sidebar sidebar-footer" >
+  <header role="banner">
 </header>
- <div id="main">
+  
+  <div id="main">
     <div id="content">
-       <div class="entry-content">
-         <article class="hentry" role="article">
- 
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+      <h1 class="entry-title">Clojure Function Patterns</h1>
+  </header>
+
+<div class="entry-content">
 <h2><code>(butlast col)</code></h2>
 
 <pre><code>Return a seq of all but the last item in coll, in linear time
@@ -25,11 +29,14 @@
 <span><span style="font-size: 2em;">(</span><code>butlast <img  style="vertical-align:middle" src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24butlast_arg0.png"> <span style="font-size: 2em;">)</span></code></span>
 </div>
 
+
 <div><code>;;=></code></div>
+
 
 <div style="padding-bottom: 40px;">
 <span><img src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24butlast_post.png"></span>
 </div>
+
 
 <h2><code>(concat x y)</code></h2>
 
@@ -426,11 +433,7 @@ avoid this, sort a copy of the array.
 <div style="padding-bottom: 40px;">
 <span><img src="https://raw.githubusercontent.com/josephwilk/functions-as-patterns/master/doc/clojure.core%24split_at_post.png"></span>
 </div>
-
+</div>
 </article>
-</div>
-</div>
-</div>
-
 </body>
 </html>
